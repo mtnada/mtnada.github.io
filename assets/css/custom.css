@@ -1,0 +1,23 @@
+@charset "UTF-8";/*!
+ * Bootstrap v5.0.2 (https://getbootstrap.com/)
+ * Copyright 2011-2021 The Bootstrap Authors
+ * Copyright 2011-2021 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ */
+ 
+body {
+    font-family: 'Heebo', sans-serif !important;
+  }
+
+.mainColor {
+   background-color: #070f28;
+}
+
+.img {
+   width: 80%; 
+ }
+
+.mainText {
+   font-weight: 300;
+   color: #04aed9!important;
+   }
